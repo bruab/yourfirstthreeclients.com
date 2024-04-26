@@ -13,7 +13,7 @@ Your goal for now is to send one (1) message to one (1) person who might, theore
 
 But you won't ask them to hire you, because that would be awkward.
 
-Instead, just send a [thoughtful message](/thoughtful-messages/), be honest about what you're up to:
+Instead, just send a [thoughtful message](/thoughtful-messages/). Be honest about what you're up to:
 
 > I'm getting started with freelancing and trying to figure out the sales and marketing side of it.
 

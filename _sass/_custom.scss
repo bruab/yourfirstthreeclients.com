@@ -1,3 +1,29 @@
+/* Get rid of ugly hover state on ConvertKit modal close 'x' */
+.seva-modal .formkit-close:hover, .formkit-modal .formkit-close:hover {
+  background-color: transparent !important;
+}
+
+.site-masthead, .cta {
+  color: $light-text-color;
+}
+
+/* Style header on posts */
+.site-masthead .smol-header {
+  font-size: 2em;
+  font-style: italic;
+}
+
+.site-masthead .smol-header a {
+  text-decoration: none;
+  color: $light-text-color;
+}
+
+@media (max-width: 472px) {
+  .site-masthead .smol-header {
+    font-size: 1.6em;
+  }
+}
+
 .footer-cta {
   max-width: 960px;
   margin: 24px 20px;
