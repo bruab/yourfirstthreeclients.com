@@ -1,0 +1,32 @@
+# Site settings
+title: Your First Three Clients
+email: yftc@briandavidhall.com
+description: How to find them without being spammy, scammy, or salesy
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourfirstthreeclients.com" 
+icon: /assets/images/icon-512.png
+author: Brian David Hall
+permalink: /:title/
+
+# Build settings
+markdown: kramdown
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+plugins:
+  - jekyll-paginate
+
+paginate: 3
+paginate_path: "/page/:num/"
+hide_search: true
+hide_credits: true
