@@ -3,9 +3,9 @@ layout: post
 title: "Let people know you're freelancing"
 ---
 
-You probably know some [people who could hypothetically hire you](/people-who-hire-freelancers), and you _definitely_ know some people who know some _other_ people who could hire you.
+You probably know some [people who could hypothetically hire you](/people-who-hire-freelancers), and you _definitely_ know people who know some _other_ people who could hire you.
 
-These people you know—do they know you're looking for clients, and what kind of work you can do?
+These people—do they know you're looking for clients, and what kind of work you can do?
 
 ![image of people not sure what you do](/assets/images/not-sure-what-you-do.png)
 
