@@ -11,7 +11,7 @@ These people—do they know you're looking for clients, and what kind of work yo
 
 If not, fixing that is an important first step.
 
-Do this one person, and one [thoughtful message](/thoughtful-messages) at a time.
+Fix it one person, and one [thoughtful message](/thoughtful-messages) at a time.
 
 For people you're close to, a simple email or text will do:
 
