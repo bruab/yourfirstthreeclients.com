@@ -17,4 +17,4 @@ _Slowly_ scroll through the names in front of you. For each person, ask:
 
 As soon as you come to a name that gets a "yes, yes, yes," stop. Send them a [thoughtful message](/thoughtful-messages/).
 
-If you've still got some energy, continue down the list. If not, no problem—come back to this audit in a few days.
+If you've still got some energy, continue down the list. If not, no problem—come back to this audit in a few days. (If you're overwhelmed with possibilities, try [focusing on connectors](/focus-on-connectors).)
