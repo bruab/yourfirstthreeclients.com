@@ -13,5 +13,5 @@ categories: examples
 > 
 > Of course, I've returned the favor and sent clients her way as well.
 
-—Anonymous
+—[Marjorie Turner Hollman](https://marjorieturner.com/)
 
