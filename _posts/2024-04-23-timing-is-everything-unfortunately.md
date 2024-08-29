@@ -3,7 +3,7 @@ layout: post
 title: "Timing is everything (unfortunately)"
 ---
 
-All the familiarity, trust, and good will in the world won't drive someont to hire you _until they need your help_.
+All the familiarity, trust, and good will in the world won't drive someone to hire you _until they need your help_.
 
 And the forces that converge to create that need are mostly outside your control. If you're a web designer, you can't _make_ a brand decide to redesign their site. If you're an audio producer, you can't _force_ an agency to launch a new podcast.
 

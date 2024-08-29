@@ -20,6 +20,11 @@
   text-align: center;
 }
 
+.post h2 {
+  font-size: 1.4em;
+  text-align: left;
+}
+
 /* Reduce post header padding on mobile */
 @media (max-width: 700px) {
   .post h1 {
