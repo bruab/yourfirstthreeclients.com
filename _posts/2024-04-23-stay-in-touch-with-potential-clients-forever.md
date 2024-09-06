@@ -21,11 +21,11 @@ Be the person in their circle who's always investigating some mildly interesting
 
 ## Ask them if they need help (once in a while)
 
-Once or twice a year, it's okay to ask about working together.
+A couple times a year, it's okay to ask about working together.
 
 If you've previously discussed a particular type of project, just let them know you're still interested—without being pushy or presumptuous.
 
-> ... I remember you saying you might want to talk about some social media strategy help once you finished the rebrand, just thought I'd check in on that. I'd love to chat about it but I also realize these projects have a way of dragging on :)
+> ... I remember you saying you might need some social media strategy help once you finished the rebrand, just thought I'd check in on that. I'd love to chat about it but I also realize these projects have a way of dragging on :)
 > 
 > Let me know if it makes sense to meet—otherwise I'll assume you've got other priorities.
 
