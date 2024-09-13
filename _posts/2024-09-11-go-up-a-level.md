@@ -13,5 +13,8 @@ If you're a social media manager, you will probably ask about their marketing ch
 
 On the other hand, if they complain that nobody knows about their product, or they've tried running ads but didn't get any customers, or—ideally—they're overwhelmed with managing their social profiles, encourage them to go into detail. How long has this been a problem? What have they tried in the past? What would change for their business if they could solve this problem?
 
-It might take several conversations before you meet someone whose most pressing problem is exactly what you're good at solving. But when it happens, you'll notice—you're not selling to them, they're selling to themselves. They'll happily outline why they need the kind of help you give, and why it's a top priority. They'll know exactly how transformative it will be, if done well. And at some point, they'll want to hear your ideas on what they should do.
+It might take several conversations before you meet someone whose most pressing problem is exactly what you're good at solving. But when it happens, you'll notice—you're not selling to them, they're selling to themselves. They'll happily outline why they need the kind of help you give, and why it's a top priority. They'll know exactly how transformative it will be, if done well. And at some point, they'll want to hear your ideas on what they should do next.
 
+---
+
+_Note: This whole concept is borrowed from [Lean Customer Development](https://www.cindyalvarez.com/lean-customer-development/) by Cindy Alvarez, which you should absolutely buy and read, once you've found some clients._
