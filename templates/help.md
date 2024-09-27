@@ -29,8 +29,10 @@ These are the essential components, in case you want to remix it or rewrite it:
 - "... what sized company will actually hire an analytics consultant."
 - "... how to charge for branding work."
 
+A good 'X' is specific (don't say "I'm trying to figure out marketing") and is something the recipient does in fact know about.
+
 ## Other notes
 
 - The template says "... here in email." Depending on who you're talking to, it might say "here in DMs," "here in chat," "here in Slack," etc.
-- Maybe this conversation will lead directly to a paying gig, and maybe you _know_ that's a possibility ... and maybe _they_ even realize it too. That's fine, and shouldn't make things awkward as long as you're _really trying to figure out X_
+- Maybe this conversation will lead directly to a paying gig, and maybe you _know_ that's a possibility ... and maybe _they_ even realize it too. That's fine, and shouldn't make things awkward as long as you're _really trying to figure out X_ 
 
